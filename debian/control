@@ -1,0 +1,12 @@
+Source: alsa-ucm-conf-cros
+Section: base
+Priority: optional
+Maintainer: Amy King <amy@amyrom.tech>
+Build-Depends:  debhelper (>= 8)
+Standards-Version: 3.9.4
+Homepage: https://github.com/WeirdTreeThing/alsa-ucm-conf-cros
+
+Package: alsa-ucm-conf-cros
+Architecture: any
+Depends: alsa-ucm-conf
+Description: ALSA UCM configuration for ChromeOS devices

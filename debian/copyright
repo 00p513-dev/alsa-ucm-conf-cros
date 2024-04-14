@@ -1,0 +1,6 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0
+Upstream-Name: alsa-ucm-conf-cros
+Source: https://github.com/WeirdTreeThing/alsa-ucm-conf-cros
+Files: *
+Maintainer: WeirdTreeThing <bradyn127@protonmail.com>
+License: BSD-3-Clause
